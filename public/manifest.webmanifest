@@ -1,0 +1,12 @@
+{
+  "name": "FitMax",
+  "short_name": "FitMax",
+  "description": "Warm-up, kettlebell workouts and progress tracking",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0f13",
+  "theme_color": "#0d0f13",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
